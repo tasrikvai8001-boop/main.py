@@ -37,7 +37,7 @@ def keep_alive():
 # ============================================
 # --- CONFIGURATION ---
 # ============================================
-TOKEN = "8534754260:AAHu6WnDSM0r_u1RdTEDxRSIRmo0EEb5h4c"  # আপনার বট টোকেন
+TOKEN = "8534754260:AAFIvkNXjxuj-EdR-pdy6zSQXuvQ0Nb5b7I"  # আপনার বট টোকেন
 ADMIN_ID = 7833766898          # আপনার টেলিগ্রাম ID
 BOT_NAME = "Fast Pay Bot"
 DATA_FILE = "fast_pay_bot_data.json"
